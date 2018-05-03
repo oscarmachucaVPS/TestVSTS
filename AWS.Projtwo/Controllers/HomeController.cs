@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
+using System.Web.Configuration;
 using System.Web.Mvc;
 
 namespace AWS.Projtwo.Controllers
@@ -10,6 +11,7 @@ namespace AWS.Projtwo.Controllers
     {
         public ActionResult Index()
         {
+            ViewBag.WEbConfigOscar = WebConfigurationManager.AppSettings["WebTransformOscar"];
             return View();
         }
 
