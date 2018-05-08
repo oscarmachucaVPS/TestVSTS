@@ -15,24 +15,33 @@ Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
+		Staging|Any CPU = Staging|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{69B50A97-0ACE-4798-B6C5-752501C9BDB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{69B50A97-0ACE-4798-B6C5-752501C9BDB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{69B50A97-0ACE-4798-B6C5-752501C9BDB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{69B50A97-0ACE-4798-B6C5-752501C9BDB3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69B50A97-0ACE-4798-B6C5-752501C9BDB3}.Staging|Any CPU.ActiveCfg = Staging|Any CPU
+		{69B50A97-0ACE-4798-B6C5-752501C9BDB3}.Staging|Any CPU.Build.0 = Staging|Any CPU
 		{5AAFBC25-D179-46E0-A6B2-A1A85261EF99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{5AAFBC25-D179-46E0-A6B2-A1A85261EF99}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5AAFBC25-D179-46E0-A6B2-A1A85261EF99}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5AAFBC25-D179-46E0-A6B2-A1A85261EF99}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5AAFBC25-D179-46E0-A6B2-A1A85261EF99}.Staging|Any CPU.ActiveCfg = Staging|Any CPU
+		{5AAFBC25-D179-46E0-A6B2-A1A85261EF99}.Staging|Any CPU.Build.0 = Staging|Any CPU
 		{203A78B1-E84A-4A24-AA87-BD5ACD7B945B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{203A78B1-E84A-4A24-AA87-BD5ACD7B945B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{203A78B1-E84A-4A24-AA87-BD5ACD7B945B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{203A78B1-E84A-4A24-AA87-BD5ACD7B945B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{203A78B1-E84A-4A24-AA87-BD5ACD7B945B}.Staging|Any CPU.ActiveCfg = Staging|Any CPU
+		{203A78B1-E84A-4A24-AA87-BD5ACD7B945B}.Staging|Any CPU.Build.0 = Staging|Any CPU
 		{BAC3D606-577D-486B-82F3-A774490AA535}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{BAC3D606-577D-486B-82F3-A774490AA535}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BAC3D606-577D-486B-82F3-A774490AA535}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BAC3D606-577D-486B-82F3-A774490AA535}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BAC3D606-577D-486B-82F3-A774490AA535}.Staging|Any CPU.ActiveCfg = Staging|Any CPU
+		{BAC3D606-577D-486B-82F3-A774490AA535}.Staging|Any CPU.Build.0 = Staging|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
