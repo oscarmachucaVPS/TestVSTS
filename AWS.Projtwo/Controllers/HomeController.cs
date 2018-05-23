@@ -15,7 +15,7 @@ namespace AWS.Projtwo.Controllers
             var version = Assembly.GetExecutingAssembly().GetName().Version;
 
             ;
-            //Change to test CI Again nn
+            //Change to test CI Again
             ViewBag.WEbConfigOscar = WebConfigurationManager.AppSettings["WebTransformOscar"];
             return View();
         }
