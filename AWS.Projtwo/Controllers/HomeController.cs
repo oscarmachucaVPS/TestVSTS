@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Reflection;
 using System.Web;
 using System.Web.Configuration;
 using System.Web.Mvc;
@@ -11,6 +12,9 @@ namespace AWS.Projtwo.Controllers
     {
         public ActionResult Index()
         {
+            var version = Assembly.GetExecutingAssembly().GetName().Version;
+
+            ;
             //Change to test CI Again
             ViewBag.WEbConfigOscar = WebConfigurationManager.AppSettings["WebTransformOscar"];
             return View();
