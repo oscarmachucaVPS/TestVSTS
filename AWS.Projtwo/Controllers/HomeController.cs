@@ -15,7 +15,7 @@ namespace AWS.Projtwo.Controllers
             var version = Assembly.GetExecutingAssembly().GetName().Version;
 
             ;
-            //Change to test CI Again
+            //Change to test CI Aga
             ViewBag.WEbConfigOscar = WebConfigurationManager.AppSettings["WebTransformOscar"];
             return View();
         }
