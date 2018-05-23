@@ -11,6 +11,7 @@ namespace AWS.Projtwo.Controllers
     {
         public ActionResult Index()
         {
+            //Change to test CI 
             ViewBag.WEbConfigOscar = WebConfigurationManager.AppSettings["WebTransformOscar"];
             return View();
         }
