@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AWS.LibOne", "AWS.LibOne\AW
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AWS.LibOneTests", "AWS.LibOneTests\AWS.LibOneTests.csproj", "{BAC3D606-577D-486B-82F3-A774490AA535}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AWS.ProjtwoTests", "AWS.ProjtwoTests\AWS.ProjtwoTests.csproj", "{767DDFBA-3542-4D27-99DC-C5D6E13EA7CF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -42,6 +44,12 @@ Global
 		{BAC3D606-577D-486B-82F3-A774490AA535}.Release|Any CPU.Build.0 = Release|Any CPU
 		{BAC3D606-577D-486B-82F3-A774490AA535}.Staging|Any CPU.ActiveCfg = Staging|Any CPU
 		{BAC3D606-577D-486B-82F3-A774490AA535}.Staging|Any CPU.Build.0 = Staging|Any CPU
+		{767DDFBA-3542-4D27-99DC-C5D6E13EA7CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{767DDFBA-3542-4D27-99DC-C5D6E13EA7CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{767DDFBA-3542-4D27-99DC-C5D6E13EA7CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{767DDFBA-3542-4D27-99DC-C5D6E13EA7CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{767DDFBA-3542-4D27-99DC-C5D6E13EA7CF}.Staging|Any CPU.ActiveCfg = Release|Any CPU
+		{767DDFBA-3542-4D27-99DC-C5D6E13EA7CF}.Staging|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
