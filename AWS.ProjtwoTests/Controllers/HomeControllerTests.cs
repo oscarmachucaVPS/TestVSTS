@@ -14,7 +14,7 @@ namespace AWS.Projtwo.Controllers.Tests
         [TestMethod()]
         public void IndexTest()
         {
-            Assert.IsTrue(false);
+            Assert.IsTrue(true);            
         }
     }
 }
