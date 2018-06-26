@@ -14,7 +14,7 @@ namespace AWS.Projtwo.Controllers
         {
             var version = Assembly.GetExecutingAssembly().GetName().Version;
 
-            //Change to test CI email notifications. 
+            //Change to test CI email notifications. Change
             ViewBag.WEbConfigOscar = WebConfigurationManager.AppSettings["WebTransformOscar"];
             return View();
         }
