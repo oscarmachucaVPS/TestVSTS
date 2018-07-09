@@ -15,7 +15,7 @@ namespace AWS.Projtwo.Controllers
         {
             var version = Assembly.GetExecutingAssembly().GetName().Version;
 
-            //Change to test WebHook Osca
+            //Change to test WebHook Oscar
             ViewBag.WEbConfigOscar = WebConfigurationManager.AppSettings["WebTransformOscar"];
             return View();
         }
